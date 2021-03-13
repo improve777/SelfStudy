@@ -1,0 +1,3 @@
+[submodule "android-base"]
+	path = android-base
+	url = https://github.com/improve777/android-base
